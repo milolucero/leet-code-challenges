@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "longest_substring_without_repeating_characters/1.0.0": {
+        "runtime": {
+          "longest_substring_without_repeating_characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "longest_substring_without_repeating_characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
