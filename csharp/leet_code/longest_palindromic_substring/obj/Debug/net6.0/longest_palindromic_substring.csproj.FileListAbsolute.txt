@@ -1,0 +1,15 @@
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\bin\Debug\net6.0\longest_palindromic_substring.exe
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\bin\Debug\net6.0\longest_palindromic_substring.deps.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\bin\Debug\net6.0\longest_palindromic_substring.runtimeconfig.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\bin\Debug\net6.0\longest_palindromic_substring.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\bin\Debug\net6.0\longest_palindromic_substring.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\longest_palindromic_substring.csproj.AssemblyReference.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\longest_palindromic_substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\longest_palindromic_substring.AssemblyInfoInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\longest_palindromic_substring.AssemblyInfo.cs
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\longest_palindromic_substring.csproj.CoreCompileInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\longest_palindromic_substring.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\refint\longest_palindromic_substring.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\longest_palindromic_substring.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\longest_palindromic_substring.genruntimeconfig.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\longest_palindromic_substring\obj\Debug\net6.0\ref\longest_palindromic_substring.dll
