@@ -1,0 +1,15 @@
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\add_two_numbers.csproj.AssemblyReference.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\add_two_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\add_two_numbers.AssemblyInfoInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\add_two_numbers.AssemblyInfo.cs
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\add_two_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\bin\Debug\net6.0\add_two_numbers.exe
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\bin\Debug\net6.0\add_two_numbers.deps.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\bin\Debug\net6.0\add_two_numbers.runtimeconfig.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\bin\Debug\net6.0\add_two_numbers.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\bin\Debug\net6.0\add_two_numbers.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\add_two_numbers.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\refint\add_two_numbers.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\add_two_numbers.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\add_two_numbers.genruntimeconfig.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\add_two_numbers\obj\Debug\net6.0\ref\add_two_numbers.dll
