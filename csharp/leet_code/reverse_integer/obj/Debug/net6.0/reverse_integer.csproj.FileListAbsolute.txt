@@ -1,0 +1,15 @@
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\bin\Debug\net6.0\reverse_integer.exe
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\bin\Debug\net6.0\reverse_integer.deps.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\bin\Debug\net6.0\reverse_integer.runtimeconfig.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\bin\Debug\net6.0\reverse_integer.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\bin\Debug\net6.0\reverse_integer.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\reverse_integer.csproj.AssemblyReference.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\reverse_integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\reverse_integer.AssemblyInfoInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\reverse_integer.AssemblyInfo.cs
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\reverse_integer.csproj.CoreCompileInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\reverse_integer.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\refint\reverse_integer.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\reverse_integer.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\reverse_integer.genruntimeconfig.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\reverse_integer\obj\Debug\net6.0\ref\reverse_integer.dll
