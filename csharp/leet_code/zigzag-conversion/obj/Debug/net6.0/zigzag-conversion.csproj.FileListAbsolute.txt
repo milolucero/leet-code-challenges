@@ -1,0 +1,15 @@
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\bin\Debug\net6.0\zigzag-conversion.exe
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\bin\Debug\net6.0\zigzag-conversion.deps.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\bin\Debug\net6.0\zigzag-conversion.runtimeconfig.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\bin\Debug\net6.0\zigzag-conversion.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\bin\Debug\net6.0\zigzag-conversion.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\zigzag-conversion.csproj.AssemblyReference.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\zigzag-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\zigzag-conversion.AssemblyInfoInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\zigzag-conversion.AssemblyInfo.cs
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\zigzag-conversion.csproj.CoreCompileInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\zigzag-conversion.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\refint\zigzag-conversion.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\zigzag-conversion.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\zigzag-conversion.genruntimeconfig.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\zigzag-conversion\obj\Debug\net6.0\ref\zigzag-conversion.dll
