@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "container_with_most_water/1.0.0": {
+        "runtime": {
+          "container_with_most_water.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "container_with_most_water/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

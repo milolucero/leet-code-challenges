@@ -5,17 +5,19 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "longest_substring_without_repeating_characters", "longest_substring_without_repeating_characters\longest_substring_without_repeating_characters.csproj", "{82AFBCA3-6C76-4635-A56C-4CE573AE1989}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "add_two_numbers", "add_two_numbers\add_two_numbers.csproj", "{A4B41BB9-C0DD-461E-8B6B-E11B32A742C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "add_two_numbers", "add_two_numbers\add_two_numbers.csproj", "{A4B41BB9-C0DD-461E-8B6B-E11B32A742C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "median-of-two-sorted-arrays", "median-of-two-sorted-arrays\median-of-two-sorted-arrays.csproj", "{4B73F20A-C0A9-4AF4-B7DD-8C10EF8D9DE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "median-of-two-sorted-arrays", "median-of-two-sorted-arrays\median-of-two-sorted-arrays.csproj", "{4B73F20A-C0A9-4AF4-B7DD-8C10EF8D9DE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest_palindromic_substring", "longest_palindromic_substring\longest_palindromic_substring.csproj", "{6AA4F042-2881-4145-9466-D3CAB609D449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "longest_palindromic_substring", "longest_palindromic_substring\longest_palindromic_substring.csproj", "{6AA4F042-2881-4145-9466-D3CAB609D449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zigzag-conversion", "zigzag-conversion\zigzag-conversion.csproj", "{27396C05-89EC-482D-92AE-673396ADDBC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zigzag-conversion", "zigzag-conversion\zigzag-conversion.csproj", "{27396C05-89EC-482D-92AE-673396ADDBC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse_integer", "reverse_integer\reverse_integer.csproj", "{BD128DA8-3969-41F5-8217-7580CB977020}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverse_integer", "reverse_integer\reverse_integer.csproj", "{BD128DA8-3969-41F5-8217-7580CB977020}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome_number", "palindrome_number\palindrome_number.csproj", "{1DF14344-A1A1-4948-88A1-0E9682025748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindrome_number", "palindrome_number\palindrome_number.csproj", "{1DF14344-A1A1-4948-88A1-0E9682025748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "container_with_most_water", "container_with_most_water\container_with_most_water.csproj", "{75572399-2AFB-4C50-9A91-63A4CA0694CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1DF14344-A1A1-4948-88A1-0E9682025748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DF14344-A1A1-4948-88A1-0E9682025748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DF14344-A1A1-4948-88A1-0E9682025748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75572399-2AFB-4C50-9A91-63A4CA0694CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75572399-2AFB-4C50-9A91-63A4CA0694CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75572399-2AFB-4C50-9A91-63A4CA0694CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75572399-2AFB-4C50-9A91-63A4CA0694CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
