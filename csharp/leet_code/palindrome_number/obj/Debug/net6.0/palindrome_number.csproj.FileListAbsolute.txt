@@ -1,0 +1,15 @@
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\bin\Debug\net6.0\palindrome_number.exe
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\bin\Debug\net6.0\palindrome_number.deps.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\bin\Debug\net6.0\palindrome_number.runtimeconfig.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\bin\Debug\net6.0\palindrome_number.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\bin\Debug\net6.0\palindrome_number.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\palindrome_number.csproj.AssemblyReference.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\palindrome_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\palindrome_number.AssemblyInfoInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\palindrome_number.AssemblyInfo.cs
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\palindrome_number.csproj.CoreCompileInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\palindrome_number.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\refint\palindrome_number.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\palindrome_number.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\palindrome_number.genruntimeconfig.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\palindrome_number\obj\Debug\net6.0\ref\palindrome_number.dll
