@@ -1,0 +1,15 @@
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\bin\Debug\net6.0\integer_to_roman.exe
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\bin\Debug\net6.0\integer_to_roman.deps.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\bin\Debug\net6.0\integer_to_roman.runtimeconfig.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\bin\Debug\net6.0\integer_to_roman.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\bin\Debug\net6.0\integer_to_roman.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\integer_to_roman.csproj.AssemblyReference.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\integer_to_roman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\integer_to_roman.AssemblyInfoInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\integer_to_roman.AssemblyInfo.cs
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\integer_to_roman.csproj.CoreCompileInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\integer_to_roman.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\refint\integer_to_roman.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\integer_to_roman.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\integer_to_roman.genruntimeconfig.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\integer_to_roman\obj\Debug\net6.0\ref\integer_to_roman.dll
