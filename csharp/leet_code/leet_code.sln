@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindrome_number", "palind
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "container_with_most_water", "container_with_most_water\container_with_most_water.csproj", "{75572399-2AFB-4C50-9A91-63A4CA0694CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integer_to_roman", "integer_to_roman\integer_to_roman.csproj", "{D0C01CF9-2BA8-4B45-B3A0-5096817CD363}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "integer_to_roman", "integer_to_roman\integer_to_roman.csproj", "{D0C01CF9-2BA8-4B45-B3A0-5096817CD363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roman_to_integer", "roman_to_integer\roman_to_integer.csproj", "{7441D29E-9EA7-4210-9990-C5EFC886936D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D0C01CF9-2BA8-4B45-B3A0-5096817CD363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0C01CF9-2BA8-4B45-B3A0-5096817CD363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0C01CF9-2BA8-4B45-B3A0-5096817CD363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7441D29E-9EA7-4210-9990-C5EFC886936D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7441D29E-9EA7-4210-9990-C5EFC886936D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7441D29E-9EA7-4210-9990-C5EFC886936D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7441D29E-9EA7-4210-9990-C5EFC886936D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
