@@ -11,36 +11,28 @@
 IList<string> LetterCombinations(string digits)
 {
     // Exit point
-    if (String.IsNullOrEmpty(digits)) return new List<string>() {};
+    if (String.IsNullOrEmpty(digits)) return new List<string>();
 
     IList<string> result = new List<string>();
 
-    string currentLetters = DigitToLetters(digits[0]);
+    IList<string> current = DigitToLetters(digits[0]);
 
-    for (int i = 0; i < currentLetters.Length; i++)
+    IList<string> next = LetterCombinations(digits.Substring(1)).Count == 0 ? new List<string>() { "" } : LetterCombinations(digits.Substring(1));
+
+
+    for (int i = 0; i < current.Count; i++)
     {
-        result = LetterCombinations(digits.Substring(i + 1));
+        for (int j = 0; j < next.Count; j++)
+        {
+            result.Add(current[i] + next[j]);
+        }
     }
-
-    //// Use recursion
-    //for (int i = 0; i < digits.Length; i++)
-    //{
-    //    foreach (string letters in LetterCombinations(digits.Substring(i + 1)))
-    //    {
-    //        string currentLetters = DigitToLetters(digits[0]);
-
-    //        foreach (char letter in currentLetters)
-    //        {
-    //            result.Add(letter.ToString());
-    //        }
-    //    }
-    //}
 
     return result;
 }
 
-// Returns the letters represented on a phone by the given digit.
-string DigitToLetters(char digit)
+// Returns a list of the characters represented on a phone by the given digit.
+IList<string> DigitToLetters(char digit)
 {
     List<(char numberString, string letters)> dictionary = new List<(char numberString, string letters)>
     {
@@ -51,14 +43,21 @@ string DigitToLetters(char digit)
         ('6', "mno"),
         ('7', "pqrs"),
         ('8', "tuv"),
-        ('9', "wzyz"),
+        ('9', "wxyz"),
     };
+
+    IList<string> result = new List<string>();
 
     for (int i = 0; i < dictionary.Count; i++)
     {
         if (digit == dictionary[i].numberString)
         {
-            return dictionary[i].letters;
+            foreach (char letter in dictionary[i].letters)
+            { 
+                result.Add(letter.ToString()); 
+            }
+
+            return result;
         }
     }
 
@@ -70,8 +69,8 @@ string DigitToLetters(char digit)
 List<(string, List<string>)> testCases = new List<(string, List<string>)>
 {
     ("2", new List<string> {"a","b","c"}),
-    //("23", new List<string> {"ad","ae","af","bd","be","bf","cd","ce","cf"}),
-    //("", new List<string> {}),
+    ("23", new List<string> {"ad","ae","af","bd","be","bf","cd","ce","cf"}),
+    ("", new List<string> {}),
 };
 
 // Testing
