@@ -1,0 +1,15 @@
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\bin\Debug\net6.0\letter_combinations_of_a_phone_number.exe
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\bin\Debug\net6.0\letter_combinations_of_a_phone_number.deps.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\bin\Debug\net6.0\letter_combinations_of_a_phone_number.runtimeconfig.json
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\bin\Debug\net6.0\letter_combinations_of_a_phone_number.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\bin\Debug\net6.0\letter_combinations_of_a_phone_number.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\letter_combinations_of_a_phone_number.csproj.AssemblyReference.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\letter_combinations_of_a_phone_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\letter_combinations_of_a_phone_number.AssemblyInfoInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\letter_combinations_of_a_phone_number.AssemblyInfo.cs
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\letter_combinations_of_a_phone_number.csproj.CoreCompileInputs.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\letter_combinations_of_a_phone_number.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\refint\letter_combinations_of_a_phone_number.dll
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\letter_combinations_of_a_phone_number.pdb
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\letter_combinations_of_a_phone_number.genruntimeconfig.cache
+C:\Users\Milo\OneDrive\Dropbox\development\leet_code\csharp\leet_code\letter_combinations_of_a_phone_number\obj\Debug\net6.0\ref\letter_combinations_of_a_phone_number.dll
